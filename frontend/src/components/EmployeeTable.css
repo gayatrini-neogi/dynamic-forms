@@ -1,0 +1,32 @@
+.employee-table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .employee-table {
+    padding: 50px;
+    text-align: center;
+    width: 95%;
+    margin-top: 20px;
+  }
+  
+  .employee-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .employee-table th,
+  .employee-table td {
+    border: 1px solid #f03232;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .employee-table th {
+    background-color: #e65959;
+    text-align: left;
+  }
+  
+  .add-column-btn {
+   background-color: rgb(220, 144, 220);
+  }

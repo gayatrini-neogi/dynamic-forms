@@ -1,0 +1,47 @@
+.employee-form {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #bc5959;
+    border-radius: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .employee-form h2 {
+    margin-top: 0;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 500px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+  }
+  
+  .employee-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #7700ff;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .employee-form button:hover {
+    background-color: #0056b3;
+  }
+  
